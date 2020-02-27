@@ -8,3 +8,11 @@ See https://github.com/yorkrobotlab/pi-puck for more information on the Pi-puck.
 ## PCB Layout
 
 ![PCB front and back](hardware/board-combined.png)
+
+
+## Licence
+
+Hardware designs are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International Licence][cc-by-sa].
+
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
