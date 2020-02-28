@@ -14,5 +14,8 @@ See https://github.com/yorkrobotlab/pi-puck for more information on the Pi-puck.
 
 Hardware designs are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International Licence][cc-by-sa].
 
+Unless otherwise specified, software is licensed under an [MIT Licence][mit].
+
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[mit]: /LICENSE-MIT
